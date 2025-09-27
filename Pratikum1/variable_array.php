@@ -17,7 +17,7 @@ $Data = '{
     "buah3": "sirsak"
 }';
 
-// Decode ke PHP Object`
+// Decode ke PHP Object` byubuyb
 $obj = json_decode($Data);
 
 // Decode ke PHP Array (parameter kedua = true)
